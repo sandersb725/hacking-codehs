@@ -32,7 +32,7 @@ Lets learn how to run graphical programs, using Firefox as an example
 #### NOTE: from now on, you must have the "Display Server Graphics Screen" (in the Other section of setting) option ON. I recommend making a "PyGame" project instead of a regular "Python" project and erasing all the text in the code editor, since "PyGame" has the Graphics Screen on by Default
 ![Other/Display Server Graphics Screen](resources/dsgs.png)
 
-Put the following code into the code editor (or download the resources/firefox.py file and uploading it to the code editor):
+Put the following code into the code editor (or download the [](resources/firefox.py) file and uploading it to the code editor):
 ```
 import os 
 
@@ -61,3 +61,6 @@ Search some websites up. Maybe even look at all of the files that make up CodeHS
 ![Karel](resources/stock_karel.png)
 #### python3.12-setup.sh (located in /, READ-ONLY)
 ![python3.12-setup.sh](resources/python.png)
+
+### More examples
+If you want more examples of graphical programs you can run on CodeHS, check out the [](resources) folder
