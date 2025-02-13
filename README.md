@@ -6,6 +6,4 @@ A *VERY* simple guide on how to exploit CodeHS terminal with Python
 ## Getting started
 You will start by making a simple program that gives you access to the kernel using Bash. Type this into your code editor
 
-`import os
-
-os.system('bash')`
+`import os os.system('bash')`
