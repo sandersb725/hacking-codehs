@@ -32,7 +32,7 @@ Lets learn how to run graphical programs, using Firefox as an example
 #### NOTE: from now on, you must have the "Display Server Graphics Screen" (in the Other section of setting) option ON. I recommend making a "PyGame" project instead of a regular "Python" project and erasing all the text in the code editor, since "PyGame" has the Graphics Screen on by Default
 ![Other/Display Server Graphics Screen](resources/dsgs.png)
 
-Put the following code into the code editor (or download the [resources/firefox.py](resources/firefox.py) file and uploading it to the code editor):
+Put the following code into the code editor (or download the [examples/firefox.py](examples/firefox.py) file and uploading it to the code editor):
 ```
 import os 
 
@@ -64,5 +64,5 @@ Search some websites up. Maybe even look at all of the files that make up CodeHS
 ![python3.12-setup.sh](resources/python.png)
 
 ### More examples
-If you want more examples of graphical programs you can run on CodeHS, check out the [resources](resources) folder. If you go to there, you may see that I got Minecraft to work. I don't recommend using it. I have no idea where the password and email data goes (probably nowhere, but still), its laggy as HECK (2 FPS on average), and you can barely look up or down, you have to enable like 5 
+If you want more examples of graphical programs you can run on CodeHS, check out the [examples](examples) folder. If you go to there, you may see that I got Minecraft to work. I don't recommend using it. I have no idea where the password and email data goes (probably nowhere, but still), its laggy as HECK (2 FPS on average), and you can barely look up or down, you have to enable like 5 
 settings to SOMEWHAT fix it. But PyCharm works fine though. Also, I had a DOOM 2 program, but I dont know the legality of distributing .WAD files, so PLEASE let me know if I should add it or not.
