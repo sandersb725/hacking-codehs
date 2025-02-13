@@ -52,6 +52,7 @@ Run the program, wait about ~30 seconds, and you should see a Firefox window pop
 `tar -xvf firefox-131.0b9.tar.bz2` "unzips" our file into the new `/home/karel/firefox` directory
 `cd firefox` goes into the Firefox directory
 `./firefox` runs Firefox
+Most graphical programs run on CodeHS should look similar to this, since we have no access to the package manager `apt` (no root access).
 
 ### Play around some
 Search some websites up. Maybe even look at all of the files that make up CodeHS that you've never seen before. For example:
@@ -64,4 +65,4 @@ Search some websites up. Maybe even look at all of the files that make up CodeHS
 
 ### More examples
 If you want more examples of graphical programs you can run on CodeHS, check out the [resources](resources) folder. If you go to there, you may see that I got Minecraft to work. I don't recommend using it. I have no idea where the password and email data goes (probably nowhere, but still), its laggy as HECK (2 FPS on average), and you can barely look up or down, you have to enable like 5 
-settings to SOMEWHAT fix it. But PyCharm work fine though. Also, I had a DOOM 2 program, but I dont know the legality of distributing .WAD files, so PLEASE let me know if I should add it or not.
+settings to SOMEWHAT fix it. But PyCharm works fine though. Also, I had a DOOM 2 program, but I dont know the legality of distributing .WAD files, so PLEASE let me know if I should add it or not.
