@@ -3,7 +3,7 @@ A *VERY* simple guide on how to exploit CodeHS's output console
 
 Today, we will be tricking the codehs.com code editor into giving us access to the kernel and running graphical programs. This process only takes a very miniscule understanding of Python, a decent understanding of Linux and Bash prgrams (like `wget` and `tar`), a CodeHS account, and the willingness to go against the EXTREMELY low FPS rate.
 
-#### NOTE: I do NOT permit the use of this to get around school or work restrictions. I am not responsible if anything happens to you or your peers. Proceed.
+#### NOTE: I do NOT permit the use of this to get around school or work restrictions. I am not responsible if anything happens to you or your peers. Run all commands and programs cautiously.
 
 ## Getting started
 You will start by making a simple program that gives you access to the kernel using Bash. Go to CodeHS. Create your program.  Type this into your code editor:
