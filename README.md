@@ -20,3 +20,4 @@ Do some simple bash programs to get used to the enviorment. For example:
 
 #### df -H
 ![dfh](https://github.com/user-attachments/assets/f2c5ec3e-e4b7-4d05-8d5b-edfe1460d541)
+#### fdisk -l
