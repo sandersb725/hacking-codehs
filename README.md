@@ -16,7 +16,7 @@ os.system('bash')
 
 As you can see it is not at all comlplicated, as it only takes two lines of code without spaces. It'll only get easier from here!
 
-### Play around a bit
+### Play around some
 
 Do some simple Bash programs to get used to the enviorment. For example:
 
@@ -29,8 +29,8 @@ Do some simple Bash programs to get used to the enviorment. For example:
 ## Graphical Programs
 Lets learn how to run graphical programs, using Firefox as an example
 
-#### NOTE: from now on, you must have the "Display Server Graphics Screen" (in the Other section of setting) option ON. I reccomend making a "PyGame" project instead of a regular "Python" project and erasing all the text in the code editor, since "PyGame" has the Graphics Screen on by Default
-[df -h](resources/dsgs.png)
+#### NOTE: from now on, you must have the "Display Server Graphics Screen" (in the Other section of setting) option ON. I recommend making a "PyGame" project instead of a regular "Python" project and erasing all the text in the code editor, since "PyGame" has the Graphics Screen on by Default
+![Other/Display Server Graphics Screen](resources/dsgs.png)
 
 Put the following code into the code editor (or download the resources/firefox.py file and uploading it to the code editor):
 ```
@@ -43,5 +43,21 @@ cd firefox
 ''')
 ```
 Run the program, wait about ~30 seconds, and you should see a Firefox window pop up. 
-[Firefox](resources/firefox.png)
+![Firefox](resources/firefox.png)
+
 (By the way, if you were trying to use this to bypass some type of YouTube or Reddit block, don't, there is no sound and YouTube doesn't work since the OS is so unstable)
+
+### Let's break our code down
+`wget https://ftp.mozilla.org/pub/firefox/releases/131.0b9/linux-x86_64/en-US/firefox-131.0b9.tar.bz2` gets the latest version of Firefox and saves it to our `/home/karel` directory
+`tar -xvf firefox-131.0b9.tar.bz2` "unzips" our file into the new `/home/karel/firefox` directory
+`cd firefox` goes into the Firefox directory
+`./firefox` runs Firefox
+
+### Play around some
+Search some websites up. Maybe even look at all of the files that make up CodeHS that you've never seen before. For example:
+#### andy.png (located in /home/karel/labs/stenography/)
+![Andy](resources/andy.png)
+#### stock_karel.jpg (located in /home/karel)
+![Karel](resources/stock_karel.png)
+#### python3.12-setup.sh (located in /, READ-ONLY)
+![python3.12-setup.sh](resources/python.png)
