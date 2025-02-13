@@ -19,4 +19,4 @@ As you can see it is not at all comlplicated, as it only takes two lines of code
 Do some simple bash programs to get used to the enviorment. For example:
 
 #### df -H
-![Example of df -h](https://github.com/sandersb725/hacking-codehs/blob/main/resources/dfh.png?raw=true)
+![df -H example](https://github.com/sandersb725/hacking-codehs/blob/main/dfh.png)
