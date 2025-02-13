@@ -42,7 +42,7 @@ cd firefox
 ./firefox
 ''')
 ```
-Run the program, wait about ~30 seconds, and you should see a Firefox window pop up. 
+Run the program, wait about 30 seconds, and you should see a Firefox window pop up. 
 ![Firefox](resources/firefox.png)
 
 (By the way, if you were trying to use this to bypass some type of YouTube or Reddit block, don't, there is no sound and YouTube doesn't work since the OS is so unstable)
