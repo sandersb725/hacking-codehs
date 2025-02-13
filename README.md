@@ -22,3 +22,5 @@ Do some simple bash programs to get used to the enviorment. For example:
 ![df -h](resources/dfh.png)
 #### ls
 ![ls](resources/ls.png)
+#### dd if=/dev/urandom of=...
+![dd if=/dev/urandom of=...](resources/dd.png)
