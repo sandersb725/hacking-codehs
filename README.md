@@ -20,4 +20,5 @@ Do some simple bash programs to get used to the enviorment. For example:
 
 #### df -H
 ![df -h](resources/dfh.png)
-#### fdisk -l
+#### ls
+![ls](resources/ls)
