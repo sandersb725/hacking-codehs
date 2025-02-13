@@ -21,4 +21,4 @@ Do some simple bash programs to get used to the enviorment. For example:
 #### df -H
 ![df -h](resources/dfh.png)
 #### ls
-![ls](resources/ls)
+![ls](resources/ls.png)
