@@ -108,6 +108,6 @@ while True:
 ```
 
 ## Conclusion
-And that's how to exploit CodeHS's output console. I look forward to seeing what you guys discover or run. Please let me know if there is anything I need to change or make clearer 
+And that's how to exploit CodeHS's output console. I look forward to seeing what you guys discover or run. Make sure to check out the [examples](examples) folder. Please let me know if there is anything I need to change or make clearer! 
 
 **PS:** I have a challenge for the people more tech savvy then me. Figure out how to get root access and run `apt`. I've tried everything, but `sudo` doesn't exist and there is no password for root, which prevents me from running `su`. Thanks!
