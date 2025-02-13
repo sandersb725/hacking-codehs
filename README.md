@@ -1,2 +1,2 @@
 # hacking-codehs
-A *VERY* simple guid eon how to exploit CodeHS terminal with Python 
+A *VERY* simple guide on how to exploit CodeHS terminal with Python 
