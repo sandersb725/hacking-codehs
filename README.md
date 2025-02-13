@@ -55,6 +55,7 @@ Run the program, wait about ~30 seconds, and you should see a Firefox window pop
 `cd firefox` goes into the Firefox directory
 
 `./firefox` runs Firefox
+
 Most graphical programs run on CodeHS should look similar to this, since we have no access to the package manager `apt` (no root access).
 
 ### Play around some
