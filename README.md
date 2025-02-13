@@ -49,8 +49,11 @@ Run the program, wait about ~30 seconds, and you should see a Firefox window pop
 
 ### Let's break our code down
 `wget https://ftp.mozilla.org/pub/firefox/releases/131.0b9/linux-x86_64/en-US/firefox-131.0b9.tar.bz2` gets the latest version of Firefox and saves it to our `/home/karel` directory
+
 `tar -xvf firefox-131.0b9.tar.bz2` "unzips" our file into the new `/home/karel/firefox` directory
+
 `cd firefox` goes into the Firefox directory
+
 `./firefox` runs Firefox
 Most graphical programs run on CodeHS should look similar to this, since we have no access to the package manager `apt` (no root access).
 
