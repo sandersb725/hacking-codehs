@@ -21,7 +21,7 @@ As you can see it is not at all comlplicated, as it only takes two lines of code
 Do some simple Bash programs to get used to the enviorment. For example:
 
 #### df -H
-![df -h](resources/dfh.png)
+![df -H](resources/dfh.png)
 #### ls
 ![ls](resources/ls.png)
 #### dd if=/dev/urandom of=...
