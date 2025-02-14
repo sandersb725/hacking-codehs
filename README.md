@@ -20,11 +20,11 @@ As you can see it is not at all comlplicated, as it only takes two lines of code
 
 Do some simple Bash programs to get used to the enviorment. For example:
 
-#### df -H
+#### `df -H`
 ![df -h](resources/dfh.png)
-#### ls
+#### `ls`
 ![ls](resources/ls.png)
-#### dd if=/dev/urandom of=...
+#### `dd if=/dev/urandom of=...`
 ![dd if=/dev/urandom of=...](resources/dd.png)
 ## Graphical Programs
 Lets learn how to run graphical programs, using Firefox as an example
