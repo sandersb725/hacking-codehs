@@ -71,42 +71,6 @@ Search some websites up. Maybe even look at all of the files that make up CodeHS
 If you want more examples of graphical programs you can run on CodeHS, check out the [examples](examples) folder. If you go to there, you may see that I got Minecraft to work. I don't recommend using it. I have no idea where the password and email data goes (probably nowhere, but still), its laggy as HECK (2 FPS on average), and you can barely look up or down, you have to enable like 5 
 settings to SOMEWHAT fix it. But PyCharm works fine though. Also, I had a DOOM 2 program, but I dont know the legality of distributing .WAD files, so PLEASE let me know if I should add it or not.
 
-## Bonus: Hugging Chat AI
-This is just a bonus program I threw in here, about how to access generative AI in the ouput console using the hugcat module.  
-
-#### NOTE: You need a Hugging Face account. Go to https://huggingface.co to register
-
-First off, download and install the module using the OS module
-```
-import os
-
-os.system("pip install hugchat && clear")
-```
-Then, import all other modules
-```
-import base64
-from hugchat import hugchat
-from hugchat.login import Login
-```
-Then, set your `EMAIL` and `PASSWD` variables to your email and password
-```
-EMAIL = "email"
-PASSWD = "password"
-```
-Then, set your cookies, login, and initialize your AI
-```
-cookie_path_dir = "./cookies/"
-sign = Login(EMAIL, PASSWD)
-cookies = sign.login(cookie_dir_path=cookie_path_dir, save_cookies=True)
-
-chatbot = hugchat.ChatBot(cookies=cookies.get_dict())
-```
-Finally, make it so you can talk to your AI
-```
-while True:
-     print(chatbot.chat(input("> ")))
-```
-
 ## Conclusion
 And that's how to exploit CodeHS's output console. I look forward to seeing what you guys discover or run. Make sure to check out the [examples](examples) folder. Please let me know if there is anything I need to change or make clearer! 
 
